@@ -1,15 +1,1 @@
-$(document).on("pagecreate","#pageone",function(){
-  $('#submitButton').on("click", function(){
-    submitText();
-  });            
-});            
-
-
-function submitText() {
-	var text = $('#textinput').val();
-	alert(text);
-}
-
-function storeValue(key, value) {
-	//add some code to store the key-value pair in persistant storage 
-}
+Backendless.initApp("<1719545F-4741-E8A9-FF3E-07BA9C59DA00>", "<86A9FC82-81E4-8F5E-FF90-5308A1E11B00>", "v1");
