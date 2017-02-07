@@ -7,10 +7,10 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Sensor Demo</name>
+    <name>Backendless</name>
 
     <description>
-        A sensor demonstration application
+        Backendless
     </description>
 
     <author href="http://www.worcester.ac.uk/discover/chris-bowers.html" email="c.bowers@worc.ac.uk">
